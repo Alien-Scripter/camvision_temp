@@ -1,0 +1,35 @@
+class A():
+
+	def func():
+		print("I am Lovesh Kumrawat")
+
+class B():
+
+	def func():
+		pass
+
+class C():
+
+	def func():
+		# jai ho
+		...
+
+class D():
+
+	def func():
+		pass
+
+class E():
+
+	def func():
+		pass
+
+class F():
+
+	def func():
+		pass
+
+class G():
+
+	def func():
+		pass
