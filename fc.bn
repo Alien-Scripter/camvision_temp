@@ -1,28 +1,35 @@
 class A():
 
 	def func():
-		pass
-class A():
+		print("I am Lovesh Kumrawat")
+
+class B():
 
 	def func():
 		pass
-class A():
+
+class C():
+
+	def func():
+		# jai ho
+		...
+
+class D():
 
 	def func():
 		pass
-class A():
+
+class E():
 
 	def func():
 		pass
-class A():
+
+class F():
 
 	def func():
 		pass
-class A():
 
-	def func():
-		pass
-class A():
+class G():
 
 	def func():
 		pass
